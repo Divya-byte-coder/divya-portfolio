@@ -1,4 +1,4 @@
-# 🌐 Divya - Personal Portfolio
+# 🌐 ![Divya - Personal Portfolio](divyaparthiban.netlify.app/)
 
 Welcome to my personal portfolio website! 🚀
 
